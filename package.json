@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shenggen1987/mocha-demo/issues"
   },
+  "devDependencies": {
+    "chai": "~3.4.1",
+    "mocha": "~2.3.4"
+  },
   "homepage": "https://github.com/shenggen1987/mocha-demo#readme"
 }
